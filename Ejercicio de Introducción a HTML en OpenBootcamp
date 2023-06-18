@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+    <title>Ejercicio de Introducción a HTML en OpenBootcamp</title>
+</head>
+
+<body>
+    <!--
+        Este es mi primer comentario de dos líneas
+        Aprendiendo a documentar mi código con OpenBootcamp
+    -->
+
+    <div>
+        <ul>
+            <li><a href="https://www.youtube.com/watch?v=rEpIV9MBfrQ">Ya no necesito usar ChatGPT ni Github Copilot X NUNCA MÁS !! Ahora VS Code GPT programa SOLO por mi</a></li>
+            <li><a href="https://www.youtube.com/watch?v=Vc4MCNiuuuk">Mejora tu productividad con estas 9 técnicas de manejo del tiempo</a></li>
+            <li><a href="https://www.youtube.com/watch?v=wQ_7Qrmt3MQ">¿NOTION o MICROSOFT LOOP?</a></li>
+        </ul>
+    </div>
+
+
+</body>
+
+
+</html>
