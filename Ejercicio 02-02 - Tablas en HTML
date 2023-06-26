@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+
+    <head>
+        <title>Ejercicio 02/2 - Tablas en HTML</title>
+    </head>
+
+    <body>
+        <h1>Ejercicio 02/2 - Tablas en HTML</h1>
+
+        <table>
+            <tr>
+                <th>Título</th>
+                <th>Autor</th>
+                <th>Año de Publicación</th>
+                <th>Enlace a Amazon</th>
+            </tr>
+
+            <tr>
+                <td>The Road to React: Your journey to master plain yet pragmatic React.js</td>
+                <td>Robin Wieruch</td>
+                <td>2023</td>
+                <td><a href="https://www.amazon.com/Road-learn-React-pragmatic-React-js/dp/172004399X/ref=sr_1_5?crid=13FOJNUCQPUAT&keywords=react&qid=1687821018&sprefix=react%2Caps%2C153&sr=8-5">Enlace</a></td>
+            </tr>
+                
+            <tr>    
+                <td>Electron Projects: Build over 9 cross-platform desktop applications from scratch</td>
+                <td>Denys Vuika</td>
+                <td>2019</td>
+                <td><a href="https://www.amazon.com/Electron-Projects-cross-platform-desktop-applications-ebook/dp/B07ZHCHWLM/ref=sr_1_2?crid=24QHQ7DOVSDER&keywords=electron&qid=1687821181&sprefix=electron%2Caps%2C140&sr=8-2">Enlace</a></td>
+            </tr>
+
+            <tr>
+                <td>Programming TypeScript: Making Your JavaScript Applications Scale</td>
+                <td>Boris Cherny</td>
+                <td>2019</td>
+                <td><a href="https://www.amazon.com/Programming-TypeScript-Making-JavaScript-Applications/dp/1492037656/ref=sr_1_4?keywords=typescript+book&qid=1687821270&sprefix=typesc%2Caps%2C138&sr=8-4">Enlace</a></td>
+            </tr>
+                
+            
+        </table>
+    </body>
+
+</html>
